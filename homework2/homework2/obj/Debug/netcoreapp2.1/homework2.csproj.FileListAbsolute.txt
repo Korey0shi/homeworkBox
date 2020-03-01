@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Korey0shi\homeworkBox\homework2\homework2\bin\Debug\netcoreapp2.1\homework2.deps.json
+C:\Users\DELL\source\repos\Korey0shi\homeworkBox\homework2\homework2\bin\Debug\netcoreapp2.1\homework2.runtimeconfig.json
+C:\Users\DELL\source\repos\Korey0shi\homeworkBox\homework2\homework2\bin\Debug\netcoreapp2.1\homework2.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Korey0shi\homeworkBox\homework2\homework2\bin\Debug\netcoreapp2.1\homework2.dll
+C:\Users\DELL\source\repos\Korey0shi\homeworkBox\homework2\homework2\bin\Debug\netcoreapp2.1\homework2.pdb
+C:\Users\DELL\source\repos\Korey0shi\homeworkBox\homework2\homework2\obj\Debug\netcoreapp2.1\homework2.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Korey0shi\homeworkBox\homework2\homework2\obj\Debug\netcoreapp2.1\homework2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Korey0shi\homeworkBox\homework2\homework2\obj\Debug\netcoreapp2.1\homework2.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Korey0shi\homeworkBox\homework2\homework2\obj\Debug\netcoreapp2.1\homework2.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Korey0shi\homeworkBox\homework2\homework2\obj\Debug\netcoreapp2.1\homework2.dll
+C:\Users\DELL\source\repos\Korey0shi\homeworkBox\homework2\homework2\obj\Debug\netcoreapp2.1\homework2.pdb
