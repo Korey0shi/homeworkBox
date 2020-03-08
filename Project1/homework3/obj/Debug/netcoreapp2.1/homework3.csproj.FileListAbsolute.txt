@@ -1,0 +1,4 @@
+C:\Users\DELL\source\repos\Korey0shi\homeworkBox\Project1\homework3\obj\Debug\netcoreapp2.1\homework3.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Korey0shi\homeworkBox\Project1\homework3\obj\Debug\netcoreapp2.1\homework3.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Korey0shi\homeworkBox\Project1\homework3\obj\Debug\netcoreapp2.1\homework3.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Korey0shi\homeworkBox\Project1\homework3\obj\Debug\netcoreapp2.1\homework3.AssemblyInfo.cs
